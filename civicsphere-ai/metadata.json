@@ -1,0 +1,6 @@
+{
+  "name": "CivicSphere AI",
+  "description": "AI-Powered Hyperlocal Community Problem Solver to report civic issues and help local departments analyze, route, and resolve them efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
